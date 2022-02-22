@@ -3,7 +3,7 @@ exports.menu = (ucapan, pushname, ownerName, botName, tanggal, jam, runtime, pre
 
         『 *OWNER & BOT INFO* 』
 👑 Creator : ${ownerName}
-👸 Pacar Owner : Fafa Kawaii
+👸 Pacar Owner : Iky Wibu
 🤖 Bot Name : ${botName}
 📆 Tanggal : ${tanggal}
 ⌚ Jam : ${jam}
